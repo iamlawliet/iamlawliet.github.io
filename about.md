@@ -1,15 +1,15 @@
 ---
 layout: page
-title: About
+title: Here You Go
 permalink: /about/
 ---
 
-Some information about you!
+I am a competitive programmer.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Hi there.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[cloudandrain6@gmail.com](mailto:cloudandrain6@gmail.com)
