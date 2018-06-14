@@ -9,7 +9,7 @@ name: Shashank Shekhar
 description: Competitive Programmer
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: "http://deathnote.wikia.com/wiki/L_(character)?file=299276L.jpg"
+avatar: https://vignette.wikia.nocookie.net/deathnote/images/7/76/299276L.jpg/revision/latest/scale-to-width-down/1000?cb=20160609084420
 
 #
 # Flags below are optional
@@ -21,7 +21,7 @@ footer-links:
   email:
   facebook:
   flickr:
-  github: "https://github.com/iamlawliet"
+  github: https://github.com/iamlawliet
   instagram:
   linkedin:
   pinterest:
