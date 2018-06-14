@@ -8,7 +8,7 @@ I am a competitive programmer.
 
 ### More Information
 
-Hi there.
+Hi there. I am cloudsandrain. Funny name?
 
 ### Contact me
 
